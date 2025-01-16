@@ -1,0 +1,120 @@
+1. Which of the following is not a valid string method in Python?
+ a) upper()
+ b) lower()
+ c) title()
+ d) subtract() --------
+
+2. Which of the following code snippets will concatenate two strings in Python?
+a) string1.append(string2)
+b) string1.join(string2)
+c) string1 + string2  --------
+d) string1.concat(string2)
+
+3. Which of the following is the correct way to access the first character of a string in Python?
+a) string[1]
+b) string[0] --------
+c) string[2]
+d) string[-1]
+
+4. Which of the following code snippets will reverse a string in Python?
+a) string.reverse()
+b) reversed(string)
+c) string[::-1] --------
+d) string.reverse_string()
+
+5. Which of the following code snippets will return the length of a string in Python?
+a) len(string) --------
+b) string.length()
+c) string.len()
+d) length(string)
+
+6. Which of the following code snippets will replace all occurrences of a substring in a string in Python?
+a) string.replace(old, new) -------
+b) string.sub(old, new)
+c) string.replace_substring(old, new)
+d) string.substitute(old, new)
+
+7. Which of the following code snippets will split a string into a list of substrings based on a delimiter in Python?
+ a) string.split(delimiter) --------
+ b) string.divide(delimiter)
+ c) string.cut(delimiter)
+ d) string.separate(delimiter)
+
+8. Which of the following code snippets will convert a string to all lowercase letters in Python?
+a) string.lowercase()
+b) string.to_lower()
+c) string.lower() ----------
+d) string.convert_to_lower()
+
+9. Which of the following code snippets will remove leading and trailing whitespace from a string in Python?
+a) string.strip() ---------
+b) string.trim()
+c) string.remove_whitespace()
+d) string.trim_whitespace()
+
+10. Which of the following code snippets will check if a string starts with a specific substring in Python?
+a) string.check_start(substring)
+b) string.begins_with(substring)
+c) string.startswith(substring) ---------
+d) string.starts(substring)
+
+11. Which of the following code snippets will split a string into a list of characters in Python?
+a) string.split()
+b) string.chars()
+c) list(string)
+d) string.list()
+
+12. Which of the following code snippets will check if a substring exists in a string in Python?
+a) string.exists(substring)
+b) string.contains(substring)
+c) substring in string ---------
+d) string.sub(substring)
+
+13. Which of the following code snippets will count the number of occurrences of a substring in a string in Python?
+a) string.count(substring)
+b) string.occurrences(substring)
+c) string.find(substring)
+d) string.index(substring)
+
+14. Which of the following code snippets will check if all characters in a string are alphanumeric in Python?
+a) string.is_alpha_num()
+b) string.is_alphanumeric()
+c) string.isalpha() and string.isdigit()
+d) string.isalnum() ----------
+
+15. Which of the following code snippets will convert a string to a list of words in Python?
+ a) string.split() ----------
+ b) string.words()
+ c) list(string)
+ d) string.list_words()
+
+16. Which of the following code snippets will check if a string ends with a specific substring in Python?
+a) string.end(substring)
+b) string.check_end(substring)
+c) string.endswith(substring) -----------
+d) string.ends(substring)
+
+17. Which of the following code snippets will return the index of the first occurrence of a substring in a string in Python?
+a) string.find(substring)
+b) string.index(substring)
+c) string.first(substring)
+d) string.search(substring)
+e) Both a and b -----------
+
+18. Which of the following code snippets will check if all characters in a string are in lowercase in Python?
+a) string.islower() ------------
+b) string.is_lowercase()
+c) string.islowercase()
+d) string.is_lower_case()
+
+19. Which of the following code snippets will remove all occurrences of a character in a string in Python?
+a) string.remove(char)
+b) string.delete(char)
+c) string.replace(char, '') -----------
+d) string.sub(char, '')
+
+20. Which of the following code snippets will check if all characters in a string are in uppercase in Python?
+a) string.is_uppercase()
+b) string.isupper() ------------
+c) string.is_upper()
+d) string.is_upper_case()
